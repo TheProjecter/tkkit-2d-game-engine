@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[TKLayer frame]:TKLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TKTexture initWithData:pixelsWide:pixelsHigh:]:TKTexture.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TKVectorCross:TKUtility.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TKSprite initWithImageFile:withDictionary:]:TKSprite.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "vertexData[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TKSpriteNode updateVertexData]:TKSpriteNode.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "vertexData[5]">
+            </PersistentString>
+            <PersistentString
+               value = "vertexData[0]">
+            </PersistentString>
+            <PersistentString
+               value = "vertexData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TKRenderManager render]:TKRenderManager.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "textureNameData[0]">
+            </PersistentString>
+            <PersistentString
+               value = "alphaData[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TKSpriteNode setHighlighted:]:TKSpriteNode.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
