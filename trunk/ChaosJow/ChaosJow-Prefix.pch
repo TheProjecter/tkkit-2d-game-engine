@@ -1,0 +1,28 @@
+//
+// Prefix header for all source files of the 'ChaosJow' target in the 'ChaosJow' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <GLKit/GLKit.h>
+#endif
+
+#define SCREEN_HEIGHT   320
+#define SCREEN_WIDTH    480
+
+#import <AVFoundation/AVFoundation.h>
+#import <AudioToolbox/AudioToolbox.h>
+#import <QuartzCore/QuartzCore.h>
+
+#define VERTEX_STRIDE            20
+#define VERTEX_BYTES_LENGTH      12
+#define TEXCOORD_BYTES_LENGTH    8
+#define ALPHA_BYTES_LENGTH       4
+#define TEX_NAME_BYTES_LENGTH    4
